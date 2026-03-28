@@ -9,11 +9,13 @@ This project implements a full-cycle data pipeline:
 
 Data Source: Transfermarkt Historical Database via Kaggle.
 
-ETL and Processing: Python and SQL were used to clean transfer records, calculate net spend, and join match performance metrics. Throughout the development process, AI-assisted coding tools were regularly leveraged to support data processing, debugging, and optimization of scripts.
+ETL and Processing: Python and SQL were used to clean transfer records, calculate net spend, and join match performance metrics. 
 
 Visualization: Power BI serves as the primary dashboard interface.
 
 Statistical Analysis: R (ggplot2) is integrated into Power BI to visualize financial correlations and price-versus-value scatter plots.
+
+AI-assisted coding tools were heavily leveraged, particularly for Python-based data processing and R (ggplot2) statistical scripting, to accelerate workflows, debug efficiently, and refine analytical outputs.
 
 # The Dashboards
 # 1. The Ego Dashboard
