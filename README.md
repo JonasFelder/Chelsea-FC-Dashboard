@@ -9,7 +9,7 @@ This project implements a full-cycle data pipeline:
 
 Data Source: Transfermarkt Historical Database via Kaggle.
 
-ETL and Processing: Python and SQL were used to clean transfer records, calculate net spend, and join match performance metrics.
+ETL and Processing: Python and SQL were used to clean transfer records, calculate net spend, and join match performance metrics. Throughout the development process, AI-assisted coding tools were regularly leveraged to support data processing, debugging, and optimization of scripts.
 
 Visualization: Power BI serves as the primary dashboard interface.
 
