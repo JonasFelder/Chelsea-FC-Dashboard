@@ -2,7 +2,7 @@
 ================================================================================
 Chelsea FC Financial Dashboard — Data Pipeline
 ================================================================================
-Author  : Jonas Nikolaus Felder  (jonasfelder)
+Author  : Jonas Nikolaus Felder  (JonasFelder)
 Project : Chelsea FC Financial Analysis & Premier League Comparison
 Source  : Transfermarkt dataset via Kaggle (davidcariboo/player-scores)
 Purpose : Transform raw CSV data into Power BI-ready tables covering Chelsea's
