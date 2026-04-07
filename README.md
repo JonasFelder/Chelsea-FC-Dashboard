@@ -15,7 +15,7 @@ Visualization: Power BI serves as the primary dashboard interface.
 
 Statistical Analysis: R (ggplot2) is integrated into Power BI to visualize financial correlations and price-versus-value scatter plots.
 
-AI-assisted coding tools were heavily leveraged, particularly for Python-based data processing and R (ggplot2) statistical scripting, to accelerate workflows, debug efficiently, and refine analytical outputs.
+Used Claude to 'vibe-code' the Python, SQL, and R logic, building on my foundational knowledge
 
 # The Dashboards
 # 1. The Ego Dashboard
