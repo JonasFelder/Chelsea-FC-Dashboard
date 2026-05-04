@@ -1,5 +1,7 @@
-<img width="4000" height="2250" alt="chelsea_dashboard-bilder-0" src="https://github.com/user-attachments/assets/1e90c162-1efb-440d-8a7a-b0a103f83860" />
-<img width="4000" height="2250" alt="chelsea_dashboard-bilder-1" src="https://github.com/user-attachments/assets/7fd26c8c-ba5a-4d5e-abc2-a714898e503e" />
+| Image 1 | Image 2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/1e90c162-1efb-440d-8a7a-b0a103f83860" width="100%" /> | <img src="https://github.com/user-attachments/assets/7fd26c8c-ba5a-4d5e-abc2-a714898e503e" width="100%" /> |
+
 # Chelsea-FC-Dashboard
 A dual Power BI study using Python &amp; SQL to audit Chelsea’s finances. The Ego Dashboard flaunts record squad value and high player sales. The Real Dashboard reveals the brutal truth: record-breaking pre-tax losses and unsustainable spending. Features custom R visuals (ggplot2) to map the gap between investment and financial ruin.
 
