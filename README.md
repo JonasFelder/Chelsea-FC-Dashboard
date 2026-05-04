@@ -1,4 +1,4 @@
-| Image 1 | Image 2 |
+| Ego Dashboard | Real Dashboard |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/1e90c162-1efb-440d-8a7a-b0a103f83860" width="100%" /> | <img src="https://github.com/user-attachments/assets/7fd26c8c-ba5a-4d5e-abc2-a714898e503e" width="100%" /> |
 
